@@ -1,0 +1,15 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Program.cs\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Program.cs\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Program.cs\Program.cs\obj\Debug\Program.cs.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Program.cs\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Program.cs\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Program.cs\Program.cs\obj\Debug\DayOneProgram.cs.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\001Program.cs\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\001Program.cs\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\001Program.cs\Program.cs\obj\Debug\Program.cs.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\001Program.cs\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\001Program.cs\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\001Program.cs\Program.cs\obj\Debug\DayOneProgram.cs.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\1.01\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\1.01\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\1.01\Program.cs\obj\Debug\Program.cs.pdb
